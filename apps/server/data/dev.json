@@ -1,0 +1,95 @@
+{
+  "races": {
+    "1": {
+      "id": "1",
+      "seed": 1761894515218,
+      "closeAt": 1761894530218,
+      "status": "open",
+      "horses": 10,
+      "createdAt": 1761894515218
+    },
+    "2": {
+      "id": "2",
+      "seed": 1761893837841,
+      "closeAt": 1761893852841,
+      "status": "settled",
+      "horses": 10,
+      "createdAt": 1761893837841,
+      "result": {
+        "result": [
+          {
+            "rank": 1,
+            "id": 3,
+            "time": 2.8
+          },
+          {
+            "rank": 2,
+            "id": 8,
+            "time": 2.933
+          },
+          {
+            "rank": 3,
+            "id": 2,
+            "time": 2.95
+          },
+          {
+            "rank": 4,
+            "id": 6,
+            "time": 2.95
+          },
+          {
+            "rank": 5,
+            "id": 10,
+            "time": 3.6
+          },
+          {
+            "rank": 6,
+            "id": 1,
+            "time": 4.25
+          },
+          {
+            "rank": 7,
+            "id": 9,
+            "time": 4.517
+          },
+          {
+            "rank": 8,
+            "id": 4,
+            "time": 5.017
+          },
+          {
+            "rank": 9,
+            "id": 7,
+            "time": 5.183
+          },
+          {
+            "rank": 10,
+            "id": 5,
+            "time": 5.267
+          }
+        ],
+        "winner": 3,
+        "payouts": [],
+        "pool": {
+          "total": 0,
+          "afterCut": 0,
+          "onWinner": 0,
+          "ratio": 0
+        }
+      }
+    },
+    "3": {
+      "id": "3",
+      "seed": 1761893862334,
+      "closeAt": 1761893877334,
+      "status": "open",
+      "horses": 10,
+      "createdAt": 1761893862334
+    }
+  },
+  "bets": {
+    "1": [],
+    "2": [],
+    "3": []
+  }
+}
